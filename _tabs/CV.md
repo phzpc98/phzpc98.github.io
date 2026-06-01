@@ -20,7 +20,7 @@ Additionally, I am intrigued by statistical physics models on planar graphs and 
 ## EMPLOYMENT
 
 **University of Oxford** | Oxford, The United Kingdom  
-*Postdoctoral Research Assistant* (Mentor: Professor Kaibo Hu) <span style="float: right;">*Starting Jun. 2026*</span>
+*Postdoctoral Research Assistant* (Mentor: Professor Kaibo Hu) <span style="float: right;">*Starting from Jun. 2026*</span>
 
 ## EDUCATION
 
