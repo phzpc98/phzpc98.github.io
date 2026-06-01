@@ -1,7 +1,7 @@
 ---
 title: CV
 icon: fas fa-id-card
-order: 4
+order: 1
 ---
 
 **Postdoctoral Research Assistant, Mathematical Institute, University of Oxford, The United Kingdom**
