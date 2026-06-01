@@ -15,7 +15,7 @@ order: 1
 
 I am interested in discrete differential geometry, specifically topics involving fine structures such as circle packings and patterns. I am interested in the rigidity, deformation, and approximation properties of those structures. **Now I am working on the intersection of Finite Element Exterior Calculus (FEEC) and discrete differential geometry.**
 
-Additionally, I am intrigued by statistical physics models on planar graphs and their embeddings/immersions.
+Additionally, I am intrigued by statistical physics models on planar graphs and their embeddings or immersions.
 
 ## EMPLOYMENT
 
