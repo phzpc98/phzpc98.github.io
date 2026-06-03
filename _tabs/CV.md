@@ -6,7 +6,7 @@ order: 1
 
 **Postdoctoral Research Assistant, Mathematical Institute, University of Oxford, The United Kingdom**
 
-📧 [phzpc98@gmail.com](mailto:phzpc98@gmail.com) | 📞 (+86) 18717729015  
+📧 [puchun.zhou@maths.ox.ac.uk](mailto:phzpc98@gmail.com) | 📞 (+86) 18717729015  
 📍 OX3 7FJ, Oxford, UK
 
 ---
